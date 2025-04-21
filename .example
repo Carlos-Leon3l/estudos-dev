@@ -1,9 +1,0 @@
-git init
-git add .
-git commit -m "Estrutura inicial do repositório de estudos"
-git branch -M main
-git remote add origin https://github.com/SEU_USUARIO/estudos-dev.git
-git push -u origin main
-
-
-"e so para no futuro "

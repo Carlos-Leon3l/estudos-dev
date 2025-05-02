@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "*.alg": "delegua",
+        "bsort_recursiva.C": "cpp",
+        "exercicio_bsort.C": "cpp"
+    }
+}

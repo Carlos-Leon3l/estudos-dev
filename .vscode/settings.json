@@ -2,6 +2,8 @@
     "files.associations": {
         "*.alg": "delegua",
         "bsort_recursiva.C": "cpp",
-        "exercicio_bsort.C": "cpp"
+        "exercicio_bsort.C": "cpp",
+        "busca_linear.C": "cpp",
+        "busca_binaria.C": "cpp"
     }
 }

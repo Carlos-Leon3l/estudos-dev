@@ -4,6 +4,9 @@
         "bsort_recursiva.C": "cpp",
         "exercicio_bsort.C": "cpp",
         "busca_linear.C": "cpp",
-        "busca_binaria.C": "cpp"
+        "busca_binaria.C": "cpp",
+        "exercicio_msort.C": "cpp",
+        "exercicios_rand.C": "cpp",
+        "Exercicio_comparacao_7.C": "cpp"
     }
 }
